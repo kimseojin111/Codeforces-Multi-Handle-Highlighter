@@ -22,13 +22,6 @@ Perfect for alt accounts, friends, or team practice tracking.
 
 Any problem solved by at least one handle will show a blue overlay.
 
-Change your handles here:
-
-``` js
-// Modify this list to your preferred Codeforces handles
-const handles = ["tourist", "Jiangly", "BenQ"];
-```
-
 ![Solved Icon](./images/solved6.png)
 
 as the blue highlight overlay.

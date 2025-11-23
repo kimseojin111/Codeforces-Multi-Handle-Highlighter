@@ -7,7 +7,7 @@
 // ==/UserScript==
 
 (function () {
-    const handles = ["gs25", "ZmkzOWYyOHcwdWo4cj", "JinyeongAckerman"];
+    // const handles = ["tourist", "Jiangly", "BenQ"];
 
     const TTL_USER = 3600 * 1000;          // 1 hour
     const TTL_CONTEST = 24 * 3600 * 1000;  // 1 day
